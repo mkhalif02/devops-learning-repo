@@ -3,7 +3,8 @@
 
 
 
-OverTheWire Bandit
+<img width="4032" height="1108" alt="image" src="https://github.com/user-attachments/assets/6e540af4-c702-432f-ac3d-6c96cbb9d8e5" />
+
 This section documents my progress through the OverTheWire Bandit wargame.
 
 The purpose of this challenge is to improve my Linux command-line, troubleshooting, and problem-solving skills through hands-on exercises. Each level introduces new concepts that are commonly used by Linux administrators, system engineers, and DevOps professionals.
