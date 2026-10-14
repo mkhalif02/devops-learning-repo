@@ -1,15 +1,18 @@
+
+# OverTheWire Bandit
+
 <img width="485" height="490" alt="image" src="https://github.com/user-attachments/assets/809b4ec9-ac99-4ec8-9694-e6a904cf673a" />
 
 
-
-
-<img width="4032" height="1108" alt="image" src="https://github.com/user-attachments/assets/6e540af4-c702-432f-ac3d-6c96cbb9d8e5" />
+## Overview
 
 This section documents my progress through the OverTheWire Bandit wargame.
 
-The purpose of this challenge is to improve my Linux command-line, troubleshooting, and problem-solving skills through hands-on exercises. Each level introduces new concepts that are commonly used by Linux administrators, system engineers, and DevOps professionals.
+The purpose of this challenge is to strengthen my Linux command-line, troubleshooting, and problem-solving skills through hands-on exercises. Each level introduces concepts commonly used by Linux administrators, system engineers, and DevOps professionals.
 
-For every level I complete, I will create a write-up containing:
+## What Each Write-Up Includes
+
+For every level completed, I will document:
 
 - The challenge objective
 - Commands used
@@ -17,12 +20,14 @@ For every level I complete, I will create a write-up containing:
 - Key concepts learned
 - Lessons learned from the challenge
 
+## Learning Objectives
+
 The goal is not simply to complete the levels, but to:
 
 - Build a solid understanding of Linux fundamentals
-- Improve troubleshooting and problem-solving skills
+- Improve troubleshooting and analytical thinking
 - Gain hands-on experience with the Linux command line
-- Develop real-world system administration skills
-- Learn techniques commonly used by DevOps and Infrastructure engineers
-- Apply practical knowledge in home lab and production-like environments
+- Develop practical system administration skills
+- Learn techniques used by DevOps and Infrastructure engineers
+- Apply knowledge in home lab and real-world environments
 
