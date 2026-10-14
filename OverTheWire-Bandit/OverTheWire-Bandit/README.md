@@ -1,4 +1,4 @@
-           <img width="485" height="490" alt="image" src="https://github.com/user-attachments/assets/809b4ec9-ac99-4ec8-9694-e6a904cf673a" />
+<img width="485" height="490" alt="image" src="https://github.com/user-attachments/assets/809b4ec9-ac99-4ec8-9694-e6a904cf673a" />
 
 
 
@@ -11,9 +11,18 @@ The purpose of this challenge is to improve my Linux command-line, troubleshooti
 
 For every level I complete, I will create a write-up containing:
 
-The challenge objective
-Commands used
-How I approached the problem
-Key concepts learned
-Lessons taken away from the challenge
-The goal is not simply to complete the levels, but to build a solid understanding of Linux fundamentals and develop practical skills that can be applied in real-world environments.
+- The challenge objective
+- Commands used
+- How I approached the problem
+- Key concepts learned
+- Lessons learned from the challenge
+
+The goal is not simply to complete the levels, but to:
+
+- Build a solid understanding of Linux fundamentals
+- Improve troubleshooting and problem-solving skills
+- Gain hands-on experience with the Linux command line
+- Develop real-world system administration skills
+- Learn techniques commonly used by DevOps and Infrastructure engineers
+- Apply practical knowledge in home lab and production-like environments
+
