@@ -1,2 +1,2 @@
-# 
+# DevOps Learning 
 This repository documents my journey learning DevOps and modern infrastructure practices through hands-on projects and home lab environments. It includes examples of Infrastructure as Code, automation, containerisation, CI/CD pipelines, Linux administration, and cloud technologies. The goal is to build practical skills by creating, deploying, and managing real-world solutions rather than just following tutorials
